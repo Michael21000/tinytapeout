@@ -9,12 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Still to be decided, but I am planning on making a certain combination of inputs that will spell the letter F.
 
 ## How to test
 
-Explain how to use your project
+will fill in.
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
