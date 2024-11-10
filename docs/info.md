@@ -13,5 +13,5 @@ Using 3 NOT gates and a NAND gate, when switch 3 is turned on, the LED will disp
 
 ## How to test
 
-Turn all the switches off, except for switch 3. 
+Turn all the switches off, except for switch 3.  
 
