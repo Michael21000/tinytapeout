@@ -9,9 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Still to be decided, but I am planning on making a certain combination of inputs that will spell the letter F.
+Using 3 NOT gates and a NAND gate, when switch 3 is turned on, the LED will display the number 3. 
 
 ## How to test
 
-will fill in.
+Turn all the switches off, except for switch 3. 
 
